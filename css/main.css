@@ -161,7 +161,7 @@ body{
 }
 
 .cycle_item{
-    background: url('../images/icon/cycle.svg') no-repeat;
+    /* background: url('../images/icon/cycle.svg') no-repeat; */
     width: 400px;
     height: 400px;
     margin-left: auto;
