@@ -1,4 +1,4 @@
-# ImperialEdict
+# ImperialEdict 君诏
 
 
 ## 队员语录
