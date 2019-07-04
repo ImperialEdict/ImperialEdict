@@ -160,6 +160,15 @@ body{
     height: 50%;
 }
 
+.cycle_item{
+    background: url('../images/icon/cycle.svg') no-repeat;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
 .green_cycle{
     width: 260px;
     height: 260px;
@@ -928,6 +937,16 @@ body{
     background: url(../images/icon/weibo.png);
 }
 
+.zhihu_items{
+    background:rgba(6,100,195,0.8);
+}
+
+.zhihu_items a{
+    background-color:rgba(6,100,195,0.8);
+    background: url(../images/icon/zhihu.png);
+}
+
+
 .blog_items{
     background:rgba(153,0,102,0.8);
 }
@@ -935,6 +954,16 @@ body{
 .blog_items a{
     background-color:rgba(153,0,102,0.8);
     background: url(../images/icon/favicon.ico);
+}
+
+
+.email_items{
+    background:rgba(51,153,102,0.8);
+}
+
+.email_items a{
+    background-color:rgba(51,153,102,0.8);
+    background: url(../images/icon/email.png);
 }
 
 .foot_title{
