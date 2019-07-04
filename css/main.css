@@ -943,7 +943,7 @@ body{
 
 .zhihu_items a{
     background-color:rgba(6,100,195,0.8);
-    background: url(../images/icon/zhihu.png);
+    background: url(../images/icon/blog.png);
 }
 
 
@@ -963,7 +963,7 @@ body{
 
 .email_items a{
     background-color:rgba(51,153,102,0.8);
-    background: url(../images/icon/email.png);
+    background: url(../images/icon/blog.png);
 }
 
 .foot_title{
